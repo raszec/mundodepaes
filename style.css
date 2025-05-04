@@ -1,8 +1,8 @@
 
-/* Rústico: fundo preto e dourado */
+/* Rústico: fundo bege com detalhes dourados */
 .landing-body {
-  background-color: #000;
-  color: #d4af37;
+  background-color: #f6ddc5; /* bege tom de pele */
+  color: #d4af37; /* texto dourado */
   font-family: 'Georgia', serif;
   height: 100vh;
   margin: 0;
@@ -21,14 +21,14 @@
   font-weight: bold;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #d4af37; /* Dourado */
+  color: #d4af37; /* dourado */
   margin-bottom: 1rem;
 }
 
 .slogan-rustica {
   font-size: 1.2rem;
   font-style: italic;
-  color: #f0e5b4;
+  color: #000; /* preto para melhor contraste no fundo claro */
   margin-bottom: 2rem;
 }
 
@@ -48,4 +48,3 @@
   background-color: #d4af37;
   color: #000;
 }
-
